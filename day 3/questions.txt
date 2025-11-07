@@ -1,0 +1,147 @@
+
+***PATTERNS***
+
+1. Half Pyramid of * 
+
+*
+**
+***
+****
+*****
+
+
+2. Half Pyramid of Numbers 
+
+1
+12
+123
+1234
+12345
+
+
+3. Half Pyramid of Alphabets 
+
+A
+BB
+CCC
+DDDD
+EEEEE
+
+
+4. Inverted half pyramid of * 
+
+*****
+****
+***
+**
+*
+
+
+5. Inverted half pyramid of numbers 
+
+12345
+1234
+123
+12
+1
+
+
+6. Full Pyramid of * 
+
+    *
+   ***
+  *****
+ *******
+*********
+
+
+7. Full Pyramid of Numbers  [Do this at last]
+
+        1 
+      2 3 2 
+    3 4 5 4 3 
+  4 5 6 7 6 5 4 
+5 6 7 8 9 8 7 6 5 
+
+
+8. Inverted full pyramid of * 
+
+ *********
+  *******
+   *****
+    ***
+     *
+
+
+9. Pascal's Triangle  [Do this at last]
+
+               1
+             1   1
+           1   2   1
+         1   3   3   1
+       1   4   6   4   1
+     1   5  10  10   5   1
+
+
+  10. Number Triangle 
+      1 
+     2 2 
+    3 3 3 
+   4 4 4 4 
+  5 5 5 5 5 
+
+
+11. 0/1 Triangle 
+
+1 
+0 1 
+1 0 1 
+0 1 0 1 
+1 0 1 0 1 
+
+
+12. diamond 
+
+    * 
+   * * 
+  * * * 
+ * * * * 
+* * * * * 
+ * * * * 
+  * * * 
+   * * 
+    * 
+. square hollow 
+
+* * * * * 
+*       * 
+*       * 
+*       * 
+* * * * * 
+
+
+14. hollow hourglass 
+
+*********
+ *     *
+  *   *
+   * *
+    *
+    *
+   * *
+  *   *
+ *     *
+*********
+
+
+15. butterfly star 
+
+*        *
+**      **
+***    ***
+****  ****
+**********
+****  ****
+***    ***
+**      **
+*        *

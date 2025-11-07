@@ -1,0 +1,25 @@
+Write a program to input and display elements of an array.
+Write a program to find the sum and average of elements in an array.
+Write a program to find the maximum and minimum elements in an array.
+Write a program to count total even and odd numbers in an array.
+Write a program to reverse the elements of an array.
+Write a program to copy all elements from one array to another.
+Write a program to search a given element in an array (Linear Search).
+Write a program to sort array elements in ascending order.
+Write a program to find the second largest and second smallest elements in an array.
+Write a program to insert an element at a specific position in an array.
+Write a program to delete an element from a specific position in an array.
+Write a program to merge two arrays into a single array.
+
+
+Write a program to find the frequency of each element in an array.
+Write a program to remove duplicate elements from an array.
+Write a program to display unique elements of an array.
+Write a program to count the total number of duplicate elements in an array.
+Write a program to find the sum of diagonal elements of a 2D matrix.
+Write a program to find the transpose of a matrix.
+Write a program to multiply two matrices.
+Write a program to find the intersection of two arrays.
+Write a program to find the union of two arrays.
+Write a program to rotate array elements to the left or right.
+Write a program to sort array elements using the selection sort technique.
