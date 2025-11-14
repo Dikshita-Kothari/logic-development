@@ -1,0 +1,8 @@
+Write a program to find the factorial of a number.
+Write a program to find the sum of first N natural numbers.
+Write a program to generate the Fibonacci series up to N terms.
+Write a program to find the sum of digits of a given number.
+Write a program to find the power of a number (x^y) without using library functions.
+Write a program to count the total number of digits in a given number.
+Write a program to reverse a given number and check whether it is a palindrome.
+Write a program to find the greatest common divisor (GCD)
